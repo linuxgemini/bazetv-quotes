@@ -1,6 +1,6 @@
 bazetv-quotes
 =========================
-Quotes from Baze.TV (2013-14)
+Quotes from Baze.TV (2014 - 13)
 
 This repo contains a txt and a json formatted file for usage.
 
